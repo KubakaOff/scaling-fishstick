@@ -5,7 +5,8 @@ Rolę siły dośrodkowej mogą pełnić:
 - siła naciągu liny
 - siła elektrostatyczna
 - siła sprężystości
-#### Wzór na wartość siły dośrodkowej:![[Pasted image 20240118083306.png]]
+#### Wzór na wartość siły dośrodkowej:
+![](Załączniki/Pasted%20image%2020240118083306.png)
 Siła dośrodkowa jest:
 - wprost proporcjonalna do masy
 - wprost proporcjonalna do kwadratu prędkości
