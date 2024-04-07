@@ -1,0 +1,2 @@
+### Najdawniejsze osadnictwo na ziemiach Polskich 
+Ziemie polskie były zamieszkiwane już w czasach prehistorycznych. Najstarsze znane ślady życia praludzi odnalezione na Śląsku pochodzą sprzed 500 tys. lat. Człowiek rozumny zadomowił się tu ok. 12 tys. lat temu, po ustąpieniu z tego obszaru lodowców.

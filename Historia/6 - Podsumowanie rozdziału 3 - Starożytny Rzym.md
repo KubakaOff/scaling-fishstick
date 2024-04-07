@@ -1,0 +1,7 @@
+| I wojna punicka | II wojna punicka | III wojna punicka |
+| --- | --- | --- |
+| 260 rok p.n.e. bitwa pod Mylae, zwycięstwo Rzymu, 249 rok p.n.e. bitwa pod Drepanum zwycięstwo Kartaginy, 241 rok p.n.e. bitwa Wyspy Egackie, zwycięstwo Rzymu | 217 rok p.n.e. bitwa nad Jeziorem Trazymeńskim, zwycięstwo Kartaginy, 216 rok p.n.e. bitwa pod Kannami, zwycięstwo, 209 rok p.n.e. oblężenie Nowej Kartaginy, zwycięstwo rzymu, 208 rok p.n.e. bitwa pod Baeculą, zwycięstwo Rzymian, 207 rok p.n.e. bitwa pod Ilipą, zwycięstwo Rzymu, 202 rok p.n.e. bitwa pod Zamą, zwycięstwo Rzymu | 149-146 rok p.n.e. oblężenie Kartaginy, zwycięstwo Rzymu |
+### Wymień przyczyny upadku Cesarstwa Rzymskiego
+- najazd barbarzyńców
+- przywłaszczenie władzy
+- najazd ostrogotów

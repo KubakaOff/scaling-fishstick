@@ -1,0 +1,3 @@
+"Dzieje Tristana i Izoldy" to najsłynniejszy romans średniowieczny. Utwór przedstawia miłość fatalną która daje szczęście, a zarazem jest przyczyną rozpaczy lub nawet śmierci.
+Uczucie łączące Tristana i Izoldę jest żywiołem niezależnym od ich woli, bohaterowie nie mają na nie wpływu. Miłość ta narodziła się po wypiciu zaczarowanego napoju, stała się szczęściem, a zarazem przekleństwem, stając się przyczyną ich śmierci.
+To i racjonalne uczucie nie zostaje jednak potępione. Nikt nie chce obciążać kochanków winą, nawet król Marek, zaczyna w późniejszych partiach poematu rozumieć ich dramat.

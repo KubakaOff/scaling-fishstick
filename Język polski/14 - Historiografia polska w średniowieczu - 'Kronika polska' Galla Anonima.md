@@ -1,0 +1,1 @@
+Kronika Galla Anonima jest najstarszym dziełem ukazującym dzieje Polski od czasów legendarnych, do roku 1116.

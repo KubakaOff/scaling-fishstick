@@ -1,0 +1,1 @@
+Mikołaj Rej w "żywocie człowieka poczciwego" z malarską dokładnością i szczegółowo opisuje realia życia na wsi. (gatunki uprawianych roślin, zajęcia w zależności od określonej pory roku) Dzięki zastosowaniu licznych zdrobnień, ukazane miejsce nabiera cech Arkadii.
