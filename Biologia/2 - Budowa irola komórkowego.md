@@ -1,3 +1,4 @@
-![[Pasted image 20240207092414.png]]![[Pasted image 20240207092739.png]]
+![](Załączniki/Pasted%20image%2020240207092414.png)
+![](Załączniki/Pasted%20image%2020240207092739.png)
 ### Budowa chromosoma
-![[Pasted image 20240207093001.png]]
+![](Załączniki/Pasted%20image%2020240207093001.png)

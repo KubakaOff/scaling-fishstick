@@ -5,7 +5,7 @@ a) wzrasta w dół grupy
 b) maleje wzdłuż okresu
 ### Zadanie 3.
 Tlen
-![[Pasted image 20240103125247.png]]
+![](Załączniki/Pasted%20image%2020240103125247.png)
 ### Zadanie 7.
 a) Fałsz
 b) Prawda
@@ -14,4 +14,4 @@ d) Fałsz
 ### Zadanie 8.
 a
 ## Zadanie 9.
-![[Pasted image 20240103130332.png]]
+![](Załączniki/Pasted%20image%2020240103130332.png)
