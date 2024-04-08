@@ -24,5 +24,5 @@ x-5x=-2+6
 -4x=4//-4  
 x=-1
 ### e)
-![[Pasted image 20231221100652.png]]
+![](Załączniki/Pasted%20image%2020231221100652.png)
 

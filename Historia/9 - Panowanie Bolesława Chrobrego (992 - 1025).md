@@ -9,8 +9,8 @@ a) uznanie praw Chrobrego do Milska i Łużyc przez nowego Cesarza Niemiec Henry
 - nieuznanie Henryka II do zwierzchności nad Czechami
 b) wybuch wojny i utrata Milska i Łużyc
 - zatrzymanie Moraw
-c) wznowienie wojny - odzyskanie wcześniej utraconych ziem przez Chrobrego
-d) zawarcie pokoju w 1013 roku i uznanie zwierzchnika Henryka II przez Polskę
+c) wznowienie wojny - odzyskanie wcześniej utraconych ziem przez Chrobrego  
+d) zawarcie pokoju w 1013 roku i uznanie zwierzchnika Henryka II przez Polskę  
 e) ponowna wyprawa Henryka II na Polskę 1015 rok
 - klęska Henryka II na Śląsku i jego odwrót
 - bohaterska obrona grodu w Niemcy

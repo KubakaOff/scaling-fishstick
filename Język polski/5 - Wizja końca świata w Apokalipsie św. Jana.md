@@ -1,7 +1,7 @@
 Apokalipsa św. Jana jest to księga prorocka, której autorstwo przypisuje się św. Janowi.
-apokalipsa (gr. apocalypsis) - objawienie, odsłonięcie tajemnicy
-Utwór zawiera szereg wizji dotyczących końca świata.
-W kompozycji wyróżniają się cykle: siedmiu listów do siedmiu kościołów, siedmiu pieczęci, siedmiu trąb, siedmiu znaków, siedmiu czasz i plag.
+apokalipsa (gr. apocalypsis) - objawienie, odsłonięcie tajemnicy  
+Utwór zawiera szereg wizji dotyczących końca świata.  
+W kompozycji wyróżniają się cykle: siedmiu listów do siedmiu kościołów, siedmiu pieczęci, siedmiu trąb, siedmiu znaków, siedmiu czasz i plag.  
 Pojawia się także smok walczący z niewiastą, na końcu zaś następuje zwycięstwo Chrystusa i nowa Jerozolima niebiańska.
 
 ### Symbole apokalipsy:

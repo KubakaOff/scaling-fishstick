@@ -1,7 +1,7 @@
 Nazwa "Biblia" pochodzi od greckiego wyrazu biblion ("zwój papirusu", "książka") i biblia ("księgi").  
 Dzieło składa się ze starego i nowego testamentu.  
 Stary testament został spisany w języku hebrajskim i aramejskim. Powstawał przez kilkanaście stuleci, ostateczna jego wersja została ustalona w I w. p.n.e.  
-Nowy testament spisano w języku greckim i powstawał w ciągu kilkudziesięciu lat n.e.
+Nowy testament spisano w języku greckim i powstawał w ciągu kilkudziesięciu lat n.e.  
 ### Podział ksiąg biblijnych
 | Stary testament | Ksiegi historyczne | Księgi mądrościowe (dydaktyczne) | Księgi prorockie (profetyczne) |
 | --- | --- | --- | --- |

@@ -1,2 +1,2 @@
-![[Pasted image 20231208115412.png]]
-![[Pasted image 20231208115829.png]]
+![](Załączniki/Pasted%20image%2020231208115412.png)
+![](Załączniki/Pasted%20image%2020231208115829.png)

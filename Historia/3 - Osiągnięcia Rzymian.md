@@ -1,6 +1,6 @@
 ## 1. Prawo Rzymskie
-a) prawo XII tablic 449 rok p.n.e.
-b) tworzenie prawa przez Cesarzy rzymskich 130 rok n.e.
+a) prawo XII tablic 449 rok p.n.e.  
+b) tworzenie prawa przez Cesarzy rzymskich 130 rok n.e.  
 c) Kodeks Justyniana VI wiek n.e. - pełna kodyfikacja prawa
 ## 2. Architektura i budownictwo rzymskie
 a) opracowanie przez Rzymian techniki użycia betonu i wprowadzenia kopuł i łuków
@@ -20,7 +20,7 @@ a) szczytowy rozwój literatury rzymskiej I w. p.n.e. za Oktawiana Augusta
 - Horacy
 - Wergiliusz
 - Ordiusz
-b) opieka możnych nad artystami - HECENAT (Gajusz Juliusz Cezar)
+b) opieka możnych nad artystami - HECENAT (Gajusz Juliusz Cezar)  
 c) historia i opis jej dziejów:
 - Polibiusz
 - Juliusz Cezar
