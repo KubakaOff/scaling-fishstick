@@ -8,8 +8,8 @@ IQ - liczby niewymierne
 R - rzeczywiste
 
 A - zbiór naturalnych dzielników liczby 24  
-A = {1, 2, 3, 4, 6, 8, 12, 24}
-![](Załączniki/Pasted%20image%2020231205125202.png)
+A = {1, 2, 3, 4, 6, 8, 12, 24}  
+![](Załączniki/Pasted%20image%2020231205125202.png)  
 ![](Załączniki/Pasted%20image%2020231205125501.png)
 ### Ćwiczenie 2 (s. 56)
 D - zbiór liczb naturalnych, których kwadraty są mniejsze od 5  

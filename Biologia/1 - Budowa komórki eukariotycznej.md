@@ -20,4 +20,4 @@ Wszystkie komórki eukariotyczne posiadają w swojej budowie:
 Komórka roślinna różni się od innych komórek obecnością chloroplastów, położoną centralnie dużą wakuolą oraz ścianą komórkową zbudowaną z celulozy.  
 Dla komórek zwierzęcych charakterystyczne są lizosomy, a dla komórek grzybowych ściana komórkowa zbudowana z chityny.  
 ## Budowa komórki grzybowej
-![](Załączniki/Pasted%20image%2020240110092911.png)
+![](Załączniki/Pasted%20image%2020240110092911.png)  
