@@ -1,3 +1,7 @@
 W Trenie X rozpaczający ojciec zadaje córce pytania o jej pośmiertne losy, apeluje o litość, jakiś znak z zaświatów który ukoiłby jego ból. Tren jest świadectwem pogłębiającego się kryzysu światopoglądowego poety, który kwestionuję podstawy renesansowej filozofii życia.  
 Kochanowski zastanawiając się gdzie po śmierci znalazła się jego córka, rozważa chrześcijański raj, mitologiczne wyspy szczęśliwe, krainę podziemi zwierzeń starożytnych greków. Gotów jest też przyjąć że Urszulka uległa metamorfozie i zamieniła się w słowika.  
 Na koniec zadaje dramatyczne pytanie o nieśmiertelność duszy, kwestionując w ten sposób fundament wiary chrześcijańskiej.
+
+
+Tren XI jest przełomowy w całym cyklu. To monolog wewnętrzny poety, który dokonuje rewizji swojej filozofii życiowej, podważa wszystkie podstawy humanistycznego światopoglądu. Porażony śmiercią córki, podaje wątpliwość cenione dotąd wartości: wiarę w cnotę, w boski porządek świata, w to że dobro uchroni człowieka przed złym losem. Upada renesansowa wiara w rozum, poeta dochodzi do wniosku, że ludzie bezskutecznie próbują poznać boskie tajemnice, są bezradni wobec praw których nie rozumieją.  
+Cierpienie doprowadza Kochanowskiego do zanegowania wszystkiego w co wierzył, rozpacz osiąga apogeum.
