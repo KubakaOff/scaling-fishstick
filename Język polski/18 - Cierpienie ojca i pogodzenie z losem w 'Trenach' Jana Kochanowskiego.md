@@ -1,0 +1,3 @@
+W Trenie X rozpaczający ojciec zadaje córce pytania o jej pośmiertne losy, apeluje o litość, jakiś znak z zaświatów który ukoiłby jego ból. Tren jest świadectwem pogłębiającego się kryzysu światopoglądowego poety, który kwestionuję podstawy renesansowej filozofii życia.  
+Kochanowski zastanawiając się gdzie po śmierci znalazła się jego córka, rozważa chrześcijański raj, mitologiczne wyspy szczęśliwe, krainę podziemi zwierzeń starożytnych greków. Gotów jest też przyjąć że Urszulka uległa metamorfozie i zamieniła się w słowika.  
+Na koniec zadaje dramatyczne pytanie o nieśmiertelność duszy, kwestionując w ten sposób fundament wiary chrześcijańskiej.
