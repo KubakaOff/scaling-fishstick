@@ -1,8 +1,7 @@
 ### 1. Upadek autorytetu papieży
 a) Nepotyzm  
 b) Symonia  
-c) antypapieże
-
+c) antypapieże  
 ### 2. Opactwo w Cluny i początek reform Kościoła
 a) reforma Kościoła - opachrow Clumy  
 b) wybór papieża przez Kandydatów - Koniclawe 1059 rok  
