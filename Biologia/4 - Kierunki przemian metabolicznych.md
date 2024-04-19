@@ -14,3 +14,6 @@ Energia uwalniana jest z ATP poprzez odłączanie reszt fosforanowych.
 
 `ATP > ADP + P + E`  
 `ADP > AMP + P + E`  
+
+Szlak metaboliczny to ciąg kolejno następujących po sobie reakcji chemicznych.  
+Cykl metaboliczny to szereg reakcji w których jeden z końcowych produktów staje się substratem.  
