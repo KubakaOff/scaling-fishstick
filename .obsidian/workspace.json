@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "ef773ce0b191df3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "53653845fa613bdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "977fc1e497c7e14b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fizyka/8 - Konsument na rynku.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25fc40b826516f74",
+    "type": "split",
+    "children": [
+      {
+        "id": "66e0dd1ca5139667",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae2fc33b654ebd19",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7fbba91b626bf311",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f13afcbb83dd3bf9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1b68433d1fa7a5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d4be573e852261e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51c9d669555b3b7e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fizyka/8 - Konsument na rynku.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "400f25ef2392c05a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Fizyka/8 - Konsument na rynku.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1cd2326da9e0c292",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5a4c3742c1addf65",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fizyka/8 - Konsument na rynku.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Otwórz okno szybkiej zmiany pliku": false,
+      "graph:Otwórz graf": false,
+      "canvas:Stwórz nowe płótno": false,
+      "daily-notes:Otwórz dzisiejszą notatkę": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz paletę poleceń": false
+    }
+  },
+  "active": "977fc1e497c7e14b",
+  "lastOpenFiles": [
+    "Fizyka/8 - Konsument na rynku.md"
+  ]
+}
