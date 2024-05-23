@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fizyka/8 - Konsument na rynku.md",
+                "file": "Język polski/21 - Streszczenie a parafraza.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 385.5
   },
   "right": {
     "id": "f1b68433d1fa7a5c",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fizyka/8 - Konsument na rynku.md",
+                "file": "Język polski/21 - Streszczenie a parafraza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fizyka/8 - Konsument na rynku.md",
+                "file": "Język polski/21 - Streszczenie a parafraza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fizyka/8 - Konsument na rynku.md"
+                "file": "Język polski/21 - Streszczenie a parafraza.md"
               }
             }
           }
@@ -148,6 +148,18 @@
   },
   "active": "977fc1e497c7e14b",
   "lastOpenFiles": [
+    "Fizyka/9 - Praca.md",
+    "Język polski/21 - Streszczenie a parafraza.md",
+    "Chemia/5 - Sole.md",
+    "Biologia/7 - Oddychanie komórkowe. Oddychanie tlenowe.md",
+    "Matematyka/16 - Odczytywanie własności funkcji z wykresu.md",
+    "Pasted image 20240517135814.png",
+    "Biznes i zarządzanie/3 - Pieniądz.md",
+    "Matematyka/Bez nazwy.md",
+    "Język polski/20 - 'Kazania Sejmowe' Piotra Skargi..md",
+    "Geografia/4 - Rzeźbotwórcza działalność morza.md",
+    "Muzyka/3 - Gwiazdy nie bledną.md",
+    "Biologia/6 - Regulacja aktywności enzymów.md",
     "Fizyka/8 - Konsument na rynku.md"
   ]
 }
